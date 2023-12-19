@@ -1,0 +1,33 @@
+---
+title: 'MOFT: Monocular odometry based on deep depth and careful feature selection
+  and tracking'
+authors:
+- Karlo Koledic
+- Igor Cvisic
+- Ivan Markovic
+- Ivan Petrovic
+date: '2023-01-01'
+publishDate: '2023-12-19T00:09:05.346109Z'
+publication_types:
+- paper-conference
+publication: '*Proceedings - IEEE International Conference on Robotics and Automation*'
+doi: 10.1109/ICRA48891.2023.10160588
+abstract: Autonomous localization in unknown environments is a fundamental problem
+  in many emerging fields and the monocular visual approach offers many advantages,
+  due to being a rich source of information and avoiding comparatively more complicated
+  setups and multisensor calibration. Deep learning opened new venues for monocular
+  odometry yielding not only end-to-end approaches but also hybrid methods combining
+  the well studied geometry with specific deep components. In this paper we propose
+  a monocular odometry that leverages deep depth within a feature based geometrical
+  framework yielding a lightweight frame-to-frame approach with metrically scaled
+  trajectories and state-of-the-art accuracy. The front-end is based on a multihypothesis
+  matcher with perspective correction coupled with deep depth predictions that enables
+  careful feature selection and tracking; especially of ground plane features that
+  are suitable for translation estimation. The back-end is based on point-to-epipolar
+  line minimization for rotation and unit translation estimation, followed by deep
+  depth aided reprojection error minimization for metrically correct translation estimation.
+  Furthermore, we also present a domain shift adaptation approach that allows for
+  generalization over different camera intrinsic and extrinsic setups. The proposed
+  approach is evaluated on the KITTI and KITTI-360 datasets, showing competitive results
+  and in most cases outperforming other state-of-the-art stereo and monocular methods.
+---
