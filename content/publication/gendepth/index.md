@@ -57,7 +57,7 @@ image:
   placement: 1
   caption: ''
   focal_point: 'Center'
-  preview_only: true
+  preview_only: false
   alt_text: "Inferred depth maps and corresponding error maps when evaluated on datasets unseen during
 training. Traditional methods such as Monodepth2 and iDisc overfit to the perspective geometry bias in the training data, resulting in poor performance for images
 captured with different vehicle-camera systems. In contrast, GenDepth estimates accurate metric
