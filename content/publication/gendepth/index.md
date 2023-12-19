@@ -54,11 +54,15 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
+header:
+  caption: ''
+  image: 'gendepth.png'
+
 image:
   placement: 1
   caption: ''
   focal_point: 'Center'
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
