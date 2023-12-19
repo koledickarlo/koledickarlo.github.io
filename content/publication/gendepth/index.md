@@ -54,10 +54,6 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
-header:
-  caption: ''
-  image: 'gendepth.png'
-
 image:
   placement: 1
   caption: ''
