@@ -36,13 +36,14 @@ interests:
   - SLAM
   - 3D Perception
   - Depth Estimation
+  - Implicit Neural Representations
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Electrical Engineering and Computer Science
       institution: University of Zagreb
-      year: Ongoing
+      year: 2022 - Now
     - course: MEng in Electrical Engineering (Robotics)
       institution: University of Zagreb
       year: 2021
