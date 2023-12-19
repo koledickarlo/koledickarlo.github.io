@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
@@ -22,20 +22,6 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
 
   - block: contact
     id: contact
@@ -50,10 +36,6 @@ sections:
         country: Croatia
         country_code: HR
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          link: 'https://twitter.com/Twitter'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
