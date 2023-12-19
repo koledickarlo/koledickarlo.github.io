@@ -10,6 +10,7 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
+  color: blue
 
 # SEO
 
@@ -45,9 +46,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ""
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -65,7 +66,7 @@ features:
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
-  math:
+  math:themes
     enable: false
   privacy_pack:
     enable: false
