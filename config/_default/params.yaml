@@ -6,10 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: cyberpunk
-  theme_night: cyberpunk
+  theme_day: earth
+  theme_night: earth
   font: minimal
   font_size: L
+  color: red
 # SEO
 
 marketing:
