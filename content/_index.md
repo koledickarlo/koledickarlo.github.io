@@ -28,7 +28,7 @@ sections:
     id: teaching
     content:
       title: <span style="color:#8e1919">Teaching</span>
-      text: "I am currently a teaching assistant for the following courses at the Faculty of Electrical Engineering and Computing:<br>+ Estimation Theory<br>+ Autonomous Mobile Robots<br>+ Robotic Sensing, Perception, and Actuation. <br>Additionally, I have mentored students on five master theses and six bachelor theses."
+      text: "I am currently a teaching assistant for the following courses at the Faculty of Electrical Engineering and Computing:\+ Estimation Theory\+ Autonomous Mobile Robots\+ Robotic Sensing, Perception, and Actuation. \Additionally, I have mentored students on five master theses and six bachelor theses."
     design:
       columns: '2'
   - block: contact
