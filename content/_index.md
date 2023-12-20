@@ -31,9 +31,9 @@ sections:
       text: 
 "I am currently a teaching assistant for the following courses at the Faculty of Electrical Engineering and Computing:
 
-* Estimation Theory  
-* Autonomous Mobile Robots  
-* Robotic Sensing, Perception, and Actuation  
++ Estimation Theory
++ Autonomous Mobile Robots  
++ Robotic Sensing, Perception, and Actuation  
 
 Additionally, I have mentored students on five master theses and six bachelor theses."
     design:
