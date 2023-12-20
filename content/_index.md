@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: About me
+      title: <span style="color:blue">some *blue* text</span>.
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
@@ -22,6 +22,7 @@ sections:
     design:
       columns: '2'
       view: card
+      color: "#8e1919"
 
   - block: contact
     id: contact
