@@ -3,16 +3,16 @@ name = "mytheme"
 
 [light]
   # Primary
-  primary = "#1565c0"
+  primary = "#4a4faa""
 
   # Menu
-  menu_primary = "#fff"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
+  menu_primary = "#4a4faa"
+  menu_text = "#292929"
+  menu_text_active = "#d7d8d7"
   menu_title = "#2b2b2b"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
+  home_section_odd = "rgb(30, 30, 30)"
   home_section_even = "rgb(0, 0, 0)"
 
 [dark]
