@@ -8,13 +8,13 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: some <span style="color:#8e1919">some *blue* text</span>.
+      title: <span style="color:#8e1919">Aboute me</span>
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
     id: featured
     content:
-      title: Publications
+      title: <span style="color:#8e1919">Publications</span>
       filters:
         folders:
           - publication
@@ -24,10 +24,19 @@ sections:
       view: card
       color: "#8e1919"
 
+  - block: markdown
+    content:
+      title: <span style="color:#8e1919">Teaching</span
+      text: "I am currently a teaching assistant for the following courses at the Faculty of Electrical Engineering and Computing:
+             - **Estimation Theory**
+             - **Autonomous Mobile Robots**
+             - **Robotic Sensing, Perception, and Actuation**  
+             Additionally, I have mentored students on five master theses and six bachelor theses."
+
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: <span style="color:#8e1919">Contact</span
       subtitle:
       email: kkoledic@gmail.com
       address:
@@ -42,4 +51,5 @@ sections:
       # Email form provider
     design:
       columns: '2'
+
 ---
