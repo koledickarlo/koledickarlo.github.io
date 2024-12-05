@@ -21,7 +21,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: card
+      view: compact
       color: "#8e1919"
 
   - block: markdown
