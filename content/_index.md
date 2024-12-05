@@ -21,7 +21,7 @@ sections:
         featured_only: true
     design:
       columns: '2'
-      view: compact
+      view: list
       color: "#8e1919"
 
   - block: markdown
