@@ -15,6 +15,8 @@ author_notes: ''
 date: '2023-09-04T00:00:00Z'
 doi: '10.1109/ECMR59166.2023.10256310'
 
+weight: 3
+
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-09-27T00:00:00Z'
 

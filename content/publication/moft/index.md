@@ -15,6 +15,7 @@ author_notes: ''
 date: '2023-05-29T00:00:00Z'
 doi: '10.1109/ICRA48891.2023.10160588'
 
+weight: 4
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-07-04T00:00:00Z'
 
