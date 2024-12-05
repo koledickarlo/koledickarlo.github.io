@@ -5,7 +5,7 @@ title: 'GVDepth: Zero-Shot Monocular Depth Estimation for Ground Vehicles based 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Karlo Koledić
+  - "**Karlo Koledić**"
   - Luka Petrović
   - Ivan Petrović
   - Ivan Marković
@@ -46,7 +46,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://gvdepth.github.io/'
 url_slides: ''
 url_source: 'https://arxiv.org/abs/2312.06021'
 url_video: ''
@@ -55,7 +55,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 
 image:
-  placement: 3
+  placement: 1
   caption: ''
   focal_point: 'Center'
   preview_only: false
