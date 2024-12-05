@@ -7,9 +7,9 @@ title: 'GVDepth: Zero-Shot Monocular Depth Estimation for Ground Vehicles based 
 authors:
   - name: "Karlo Koledić"
     highlight: true
-  - name: Luka Petrović
-  - name: Ivan Petrović
-  - name: Ivan Marković
+  - name: "Luka Petrović"
+  - name: "Ivan Petrović"
+  - name: "Ivan Marković"
 
 # Author notes (optional)
 author_notes: ''
