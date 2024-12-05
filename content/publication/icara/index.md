@@ -12,12 +12,12 @@ authors:
 # Author notes (optional)
 author_notes: ''
 
-date: ''
+date: '2025-02-12T00:00:00Z'
 doi: ''
 weight: 1 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-02-12T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
