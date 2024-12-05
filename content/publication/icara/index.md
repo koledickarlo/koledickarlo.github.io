@@ -28,27 +28,7 @@ publication_types: ['paper-conference']
 publication: In International Conference on Automation, Robotics, and Applications (ICARA 2025)
 publication_short: ICARA 2025
 
-abstract: Accurate localization and scene reconstruction are
-essential for the autonomous navigation of mobile agents. Simultaneous Localization and Mapping (SLAM) algorithms address
-both challenges by formulating a unified optimization problem,
-offering an integrated solution to both objectives. Recent advances in learning-based scene understanding have significantly
-improved accuracy and robustness, particularly in adverse scenarios that are troublesome for traditional geometric methods.
-However, generating an accurate dense scene reconstruction
-remains an open challenge, largely due to the complexity of
-the optimization problem, making it unsuitable for real-time
-requirements on resource-constrained devices. Novel advances
-in 3D reconstruction such as implicit representations and Gaussian Splatting present an enticing formulation enabling offline
-reconstruction of large-scale scenes. While these approaches have
-been successfully adapted for online incremental reconstruction,
-particularly through Gaussian Splatting SLAM methods, they
-are hindered by significant computational complexity and convergence challenges due to the non-convex nature of photometric
-optimization. In this work we rethink this approach by combining
-the strengths of traditional feature-based methods with innovative
-reconstruction capability of Gaussian splatting. Specifically, we
-integrate feature-based pose estimation, relocalization and loop
-closure with 3D Gaussian-based scene reconstruction. This results
-in state-of-the-art tracking and mapping performance on the EuRoC and TUM datasets, while significantly reducing convergence
-iterations and improving real-time performance.
+abstract: Accurate localization and scene reconstruction are essential for the autonomous navigation of mobile agents. Simultaneous Localization and Mapping (SLAM) algorithms address both challenges by formulating a unified optimization problem, offering an integrated solution to both objectives. Recent advances in learning-based scene understanding have significantly improved accuracy and robustness, particularly in adverse scenarios that are troublesome for traditional geometric methods. However, generating an accurate dense scene reconstruction remains an open challenge, largely due to the complexity of the optimization problem, making it unsuitable for real-time requirements on resource-constrained devices. Novel advances in 3D reconstruction such as implicit representations and Gaussian Splatting present an enticing formulation enabling offline reconstruction of large-scale scenes. While these approaches have been successfully adapted for online incremental reconstruction, particularly through Gaussian Splatting SLAM methods, they are hindered by significant computational complexity and convergence challenges due to the non-convex nature of photometric optimization. In this work, we rethink this approach by combining the strengths of traditional feature-based methods with innovative reconstruction capability of Gaussian splatting. Specifically, we integrate feature-based pose estimation, relocalization, and loop closure with 3D Gaussian-based scene reconstruction. This results in state-of-the-art tracking and mapping performance on the EuRoC and TUM datasets, while significantly reducing convergence iterations and improving real-time performance.
 # Summary. An optional shortened abstract.
 summary: A novel SLAM approach that combines feature-based pose estimation with Gaussian Splatting 3D reconstruction, achieving state-of-the-art performance and real-time efficiency on benchmark datasets.
 
