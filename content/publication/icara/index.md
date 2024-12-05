@@ -1,22 +1,23 @@
 ---
-title: 'MOFT: Monocular odometry based on deep depth and careful feature selection and tracking'
+title: 'Enhancing Gaussian Splatting SLAM with Feature-based Tracking'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Muhammad Awais
   - Karlo Koledić
-  - Igor Cvišić
+  - Luka Petrović
   - Ivan Marković
-  - Ivan Petrović
 # Author notes (optional)
 author_notes: ''
 
-date: '2023-05-29T00:00:00Z'
-doi: '10.1109/ICRA48891.2023.10160588'
+date: ''
+doi: ''
+weight: 1 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-07-04T00:00:00Z'
+publishDate: '2025-02-12T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -24,12 +25,32 @@ publishDate: '2023-07-04T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Robotics and Automation* (ICRA 2023)
-publication_short: ICRA 2023
+publication: In International Conference on Automation, Robotics, and Applications (ICARA 2025)
+publication_short: ICARA 2025
 
-abstract: Autonomous localization in unknown environments is a fundamental problem in many emerging fields and the monocular visual approach offers many advantages, due to being a rich source of information and avoiding comparatively more complicated setups and multisensor calibration. Deep learning opened new venues for monocular odometry yielding not only end-to-end approaches but also hybrid methods combining the well studied geometry with specific deep components. In this paper we propose a monocular odometry that leverages deep depth within a feature based geometrical framework yielding a lightweight frame-to-frame approach with metrically scaled trajectories and state-of-the-art accuracy. The front-end is based on a multihypothesis matcher with perspective correction coupled with deep depth predictions that enables careful feature selection and tracking; especially of ground plane features that are suitable for translation estimation. The back-end is based on point-to-epipolar line minimization for rotation and unit translation estimation, followed by deep depth aided reprojection error minimization for metrically correct translation estimation. Furthermore, we also present a domain shift adaptation approach that allows for generalization over different camera intrinsic and extrinsic setups. The proposed approach is evaluated on the KITTI and KITTI-360 datasets, showing competitive results and in most cases outperforming other state-of-the-art stereo and monocular methods.
+abstract: Accurate localization and scene reconstruction are
+essential for the autonomous navigation of mobile agents. Simultaneous Localization and Mapping (SLAM) algorithms address
+both challenges by formulating a unified optimization problem,
+offering an integrated solution to both objectives. Recent advances in learning-based scene understanding have significantly
+improved accuracy and robustness, particularly in adverse scenarios that are troublesome for traditional geometric methods.
+However, generating an accurate dense scene reconstruction
+remains an open challenge, largely due to the complexity of
+the optimization problem, making it unsuitable for real-time
+requirements on resource-constrained devices. Novel advances
+in 3D reconstruction such as implicit representations and Gaussian Splatting present an enticing formulation enabling offline
+reconstruction of large-scale scenes. While these approaches have
+been successfully adapted for online incremental reconstruction,
+particularly through Gaussian Splatting SLAM methods, they
+are hindered by significant computational complexity and convergence challenges due to the non-convex nature of photometric
+optimization. In this work we rethink this approach by combining
+the strengths of traditional feature-based methods with innovative
+reconstruction capability of Gaussian splatting. Specifically, we
+integrate feature-based pose estimation, relocalization and loop
+closure with 3D Gaussian-based scene reconstruction. This results
+in state-of-the-art tracking and mapping performance on the EuRoC and TUM datasets, while significantly reducing convergence
+iterations and improving real-time performance.
 # Summary. An optional shortened abstract.
-summary: Autonomous localization in unknown environments is a fundamental problem in many emerging fields and the monocular visual approach offers many advantages, due to being a rich source of information and avoiding comparatively more complicated setups and multisensor calibration. Deep learning opened new venues for monocular odometry yielding not only end-to-end approaches but also hybrid methods combining the well studied geometry with specific deep components. In this paper we propose a monocular odometry that leverages deep depth within a feature based geometrical framework yielding a lightweight frame-to-frame approach with metrically scaled trajectories and state-of-the-art accuracy. The front-end is based on a multihypothesis matcher with perspective correction coupled with deep depth predictions that enables careful feature selection and tracking; especially of ground plane features that are suitable for translation estimation. The back-end is based on point-to-epipolar line minimization for rotation and unit translation estimation, followed by deep depth aided reprojection error minimization for metrically correct translation estimation. Furthermore, we also present a domain shift adaptation approach that allows for generalization over different camera intrinsic and extrinsic setups. The proposed approach is evaluated on the KITTI and KITTI-360 datasets, showing competitive results and in most cases outperforming other state-of-the-art stereo and monocular methods.
+summary: A novel SLAM approach that combines feature-based pose estimation with Gaussian Splatting 3D reconstruction, achieving state-of-the-art performance and real-time efficiency on benchmark datasets.
 
 tags: []
 
@@ -47,7 +68,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://ieeexplore.ieee.org/abstract/document/10160588'
+url_source: ''
 url_video: ''
 
 # Featured image
