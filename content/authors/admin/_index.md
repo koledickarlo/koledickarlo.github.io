@@ -26,6 +26,18 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: PhD candidate interested in computer vision and robotics.
 
+experience:
+  - company: "XYZ Company"
+    position: "Software Developer"
+    start_date: "March 2021"
+    end_date: "Present"
+    summary: "Developed web applications and led the migration of internal tools."
+  - company: "ABC Corp"
+    position: "Junior Developer"
+    start_date: "June 2019"
+    end_date: "February 2021"
+    summary: "Assisted in building and maintaining internal web apps."
+
 # Interests to show in About widget
 interests:
   - Robotics
@@ -71,9 +83,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=z9gN8Z8AAAAJ&hl=hr&oi=sra
- # - icon: github
- #   icon_pack: fab
- #   link: https://github.com/gcushen
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/koledickarlo
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/karlo-koledi%C4%87-4616161b9/
