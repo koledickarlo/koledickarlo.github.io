@@ -53,7 +53,7 @@ sections:
         - title: Computer Vision Intern
           company: RealNetworks Inc.
           company_url: ''
-          company_logo: 'realnetworks'
+          company_logo: ''
           location: Zagreb, Croatia
           date_start: '2018-07-01'
           date_end: '2019-07-01'
