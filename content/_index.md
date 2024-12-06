@@ -45,7 +45,7 @@ sections:
         - title: Junior R&D Engineer 
           company: Visage Technologies AB
           company_url: ''
-          company_logo: ''
+          company_logo: 'visage'
           location: Zagreb, Croatia
           date_start: '2020-08-01'
           date_end: '2021-03-01'
