@@ -26,18 +26,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: PhD candidate interested in computer vision and robotics.
 
-experience:
-  - company: "XYZ Company"
-    position: "Software Developer"
-    start_date: "March 2021"
-    end_date: "Present"
-    summary: "Developed web applications and led the migration of internal tools."
-  - company: "ABC Corp"
-    position: "Junior Developer"
-    start_date: "June 2019"
-    end_date: "February 2021"
-    summary: "Assisted in building and maintaining internal web apps."
-
 # Interests to show in About widget
 interests:
   - Robotics
