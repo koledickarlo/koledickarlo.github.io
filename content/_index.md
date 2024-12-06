@@ -44,7 +44,7 @@ sections:
         - title: Junior R&D Engineer 
           company: Visage Technologies AB
           company_url: ''
-          company_logo: 'visage'
+          company_logo: 'visage.jpeg'
           location: Zagreb, Croatia
           date_start: '2020-08-01'
           date_end: '2021-03-01'
@@ -53,7 +53,7 @@ sections:
         - title: Computer Vision Intern
           company: RealNetworks Inc.
           company_url: ''
-          company_logo: ''
+          company_logo: 'realnetworks.jpg'
           location: Zagreb, Croatia
           date_start: '2018-07-01'
           date_end: '2019-07-01'
