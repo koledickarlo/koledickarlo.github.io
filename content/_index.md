@@ -24,30 +24,46 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Researcher
+          company: Faculty of Electrical Engineering and Computing
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Zagreb, Croatia
+          date_start: '2021-03-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          description: Robotics and Computer Vision Researcher and a PhD candidate at the Laboratory for Autonomous Systems and Mobile Robotics (LAMOR). Research focused on deep learning applications for 3D Computer Vision, Sensor Fusion and SLAM.
+        - title: Computer Vision Engineer
+          company: Snap Inc.
+          company_url: ''
+          company_logo: snap
+          location: Vienna, Austria
+          date_start: '2024-06-01'
+          date_end: '2024-09-01'
+          description: PhD research internship - computer vision for augmented reality.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Junior R&D Engineer 
+          company: Visage Technologies AB
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Zagreb, Croatia
+          date_start: '2020-08-01'
+          date_end: '2021-03-01'
+          description: Computer vision for autonomous driving with focus on multiple object tracking. 
+
+        - title: Computer Vision Intern
+          company: RealNetworks Inc.
+          company_url: ''
+          company_logo: org-x
+          location: Zagreb, Croatia
+          date_start: '2018-07-01'
+          date_end: '2019-07-01'
+          description: Deep learning for face detection, face recognition, face spoofing detection. 
+
+
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
     
   - block: collection
     id: featured
