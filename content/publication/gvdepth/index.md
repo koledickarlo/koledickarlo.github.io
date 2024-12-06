@@ -5,11 +5,10 @@ title: 'GVDepth: Zero-Shot Monocular Depth Estimation for Ground Vehicles based 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - name: "Karlo Koledić"
-    highlight: true
-  - name: "Luka Petrović"
-  - name: "Ivan Petrović"
-  - name: "Ivan Marković"
+  - "Karlo Koledić"
+  - "Luka Petrović"
+  - "Ivan Petrović"
+  - "Ivan Marković"
 
 # Author notes (optional)
 author_notes: ''

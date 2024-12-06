@@ -5,7 +5,7 @@ title: 'MOFT: Monocular odometry based on deep depth and careful feature selecti
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - "<b>Karlo Koledić</b>"
+  - Karlo Koledić
   - Igor Cvišić
   - Ivan Marković
   - Ivan Petrović

@@ -6,13 +6,13 @@ title: 'Enhancing Gaussian Splatting SLAM with Feature-based Tracking'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Muhammad Awais
-  - "**Karlo Koledić**"
+  - Karlo Koledić
   - Luka Petrović
   - Ivan Marković
 # Author notes (optional)
 author_notes: ''
 
-date: '2024-09-12T00:00:00Z'
+date: '2025-09-12T00:00:00Z'
 doi: ''
 
 
