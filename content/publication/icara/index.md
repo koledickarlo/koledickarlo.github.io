@@ -12,8 +12,8 @@ authors:
 # Author notes (optional)
 author_notes: ''
 
-date: '2023-12-12T00:00:00Z'
-doi: 'https://doi.org/10.48550/arXiv.2312.06021'
+date: '2024-09-12T00:00:00Z'
+doi: ''
 
 
 # Schedule page publish date (NOT publication's date).
